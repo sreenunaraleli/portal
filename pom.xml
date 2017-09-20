@@ -9,7 +9,7 @@
 	<packaging>jar</packaging>
 
 	<name>portal</name>
-	<description>Boot</description>
+	<description>Bootapplication</description>
 
 	<parent>
 		<groupId>org.springframework.boot</groupId>
