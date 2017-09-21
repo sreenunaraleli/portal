@@ -9,11 +9,8 @@
 	<packaging>jar</packaging>
 
 	<name>portal</name>
-<<<<<<< HEAD
 
-=======
 	<description>Bootapplication</description>
->>>>>>> 22e592ba84ea1b9511afdbb08d7d6faceb7f8d6e
 
 	<parent>
 		<groupId>org.springframework.boot</groupId>
